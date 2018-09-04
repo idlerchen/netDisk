@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<property>
+		<!-- 服务器的IP -->
+		<IP>127.0.0.1</IP>
+		<!-- 服务器的端口 -->
+		<port>9999</port>
+		<!-- 网盘所在文件默认路径 -->
+		<path>D:/Disk</path>
+		<!-- 日志全名称 -->
+		<logpath>D:/Disk/log/1.log</logpath>
+	</property>
+</root>
